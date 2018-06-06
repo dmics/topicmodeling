@@ -27,6 +27,6 @@ The data we'll be using now is a set of Wikipedia plot descriptions for movies n
 7. Spend a few minutes poking around. Also take a look at the output_csv folder and see what's there.
 
 **Sample Outputs**
-[20 topics](http://brandontlocke.com/aa-20topicmodel/output_html/all_topics.html)
-[40 topics](http://brandontlocke.com/aa-40topicmodel/aa-40topicmodel/all_topics.html)
-[60 topics](http://brandontlocke.com/aa-60topicmodel/aa-60topicmodel/all_topics.html)
+- [20 topics](http://brandontlocke.com/aa-20topicmodel/output_html/all_topics.html)
+- [40 topics](http://brandontlocke.com/aa-40topicmodel/aa-40topicmodel/all_topics.html)
+- [60 topics](http://brandontlocke.com/aa-60topicmodel/aa-60topicmodel/all_topics.html)
